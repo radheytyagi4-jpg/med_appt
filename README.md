@@ -3,7 +3,7 @@
 A non-profit healthcare platform connecting patients in remote and underserved areas with certified doctors anytime, anywhere.
 
 ## Project Name
-StayHealthy - Go Digital Healthcare Platform
+Medical Appointment Booking
 
 ## Setup Instructions
 
